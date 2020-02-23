@@ -1,0 +1,1 @@
+less exts | xargs -L 1 echo code --install-extension
